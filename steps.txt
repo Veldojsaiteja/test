@@ -1,0 +1,8 @@
+firstly clone this above project in your local repo
+
+-> ./back-end>npm install
+-> ./front-end>npm install
+-> to run the project,
+    goto ../back-end>npm run dev
+    -> it will automatically starts both the servers at a time.
+-> you can start working on either back-end or front-end now.
