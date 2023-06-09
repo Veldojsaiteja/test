@@ -6,3 +6,13 @@ firstly clone this above project in your local repo
     goto ../back-end>npm run dev
     -> it will automatically starts both the servers at a time.
 -> you can start working on either back-end or front-end now.
+
+
+
+-----------------------------------------------------------------
+
+-> first git remote add origin <url> / git remote set-url origin <url>
+-> git init
+-> git add .
+-> git commit -m "message"
+-> git push origin main
